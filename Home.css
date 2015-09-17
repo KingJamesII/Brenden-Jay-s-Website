@@ -1,0 +1,9 @@
+html {  
+    background-image: url(http://www.wired.com/wp-content/uploads/2014/09/bounce.gif); 
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: center;
+}
+#menu {
+    visibility: hidden;
+}
